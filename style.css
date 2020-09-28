@@ -184,7 +184,7 @@ h4{
 {
 	filter: grayscale(0);
 	-webkit-transform: rotate(-15deg);
-	transform: rotate(-15deg);
+	transform: rotate(-8deg);
 }
 .qi_img{
 		width: 400px;
@@ -200,7 +200,7 @@ h4{
 	-webkit-filter: grayscale(0);
 	filter: grayscale(0);
 	-webkit-transform: rotate(-15deg);
-	transform: rotate(15deg)
+	transform: rotate(8deg)
 }
 .ch_img{
 		width: 400px;
@@ -216,7 +216,7 @@ h4{
 	-webkit-filter: grayscale(0);
 	filter: grayscale(0);
 	-webkit-transform: rotate(-15deg);
-	transform: rotate(-15deg)
+	transform: rotate(-8deg)
 }
 .container
 {
